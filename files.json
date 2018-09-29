@@ -31,7 +31,7 @@
     },
     "psstest2": {
         "type": "file",
-        "name": "pesstest2",
+        "name": "psstest2",
         "parent": "pss"
     }
 }
