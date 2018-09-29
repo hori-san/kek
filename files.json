@@ -28,8 +28,7 @@
         "type": "file",
         "name": "psstest2",
         "parent": "pss"
-    }
-    ,
+    },
     "psstest2": {
         "type": "file",
         "name": "pesstest2",
