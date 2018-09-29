@@ -14,14 +14,14 @@
         "name": "pss",
         "parent": "year1"
     },
-    "test1": {
+    "maintest1": {
         "type": "file",
-        "name": "test1",
+        "name": "maintest1",
         "parent": "main"
     },
-    "test2": {
+    "ikitest1": {
         "type": "file",
-        "name": "test2",
+        "name": "ikitest1",
         "parent": "iki"
     },
     "psstest1": {
